@@ -22,4 +22,4 @@ I had wrote two distinct scripts for this project:
 
 When you execute dataExtraction.py after updating the Input.xlsx address and the place where the extracted text file will be saved, it will automatically process and save 170 text files. After modifying the locations of Input.xlsx, LoughranMcDonald MasterDictionary 2020.csv, StopWords GenericLong.txt, and extracted text, execute texAnalysis.py. It will calculate all of the essential parameters for all 170 text files automatically and save it to 'Output Data Structure Filled.csv'.
 
-• This project is completed with the help of pandas, requests, bs4, nltk, and re packages installed on Python 3.8 and PyCharm IDE. 
+• This project is completed with the help of pandas, requests, bs4, nltk, and re packages installed on Python 3.8 and PyCharm IDE. • If you want to see the scrapped text data, you can see after unzipping it from 'textdata.7z'   
